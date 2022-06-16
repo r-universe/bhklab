@@ -1,0 +1,15 @@
+[
+  {
+    "package": "CREAM",
+    "oncran": true
+  },
+  {
+    "package": "consensusOV"
+  },
+  {
+    "package": "PharmacoGx"
+  },
+  {
+    "package": "Xeva"
+  }
+]
