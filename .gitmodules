@@ -13,6 +13,11 @@
 	url = https://github.com/bhklab/consensusov
 	shallow = true
 	registered = true
+[submodule "PDATK"]
+	path = PDATK
+	url = https://github.com/bhklab/pdatk
+	shallow = true
+	registered = true
 [submodule "PharmacoGx"]
 	path = PharmacoGx
 	url = https://github.com/bhklab/pharmacogx
