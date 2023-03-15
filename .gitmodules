@@ -13,6 +13,11 @@
 	url = https://github.com/bhklab/cream
 	shallow = true
 	registered = true
+[submodule "mRMRe"]
+	path = mRMRe
+	url = https://github.com/bhklab/mrmre
+	shallow = true
+	registered = true
 [submodule "PDATK"]
 	path = PDATK
 	url = https://github.com/bhklab/pdatk
