@@ -1,18 +1,18 @@
 [
   {
+    "package": "consensusOV"
+  },
+  {
     "package": "CREAM",
     "oncran": true
   },
   {
-    "package": "Xeva"
-  },
-  {
-    "package": "consensusOV"
+    "package": "PDATK"
   },
   {
     "package": "PharmacoGx"
   },
   {
-    "package": "PDATK"
+    "package": "Xeva"
   }
 ]

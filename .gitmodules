@@ -3,19 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "consensusOV"]
+	path = consensusOV
+	url = https://github.com/bhklab/consensusov
+	shallow = true
+	registered = true
 [submodule "CREAM"]
 	path = CREAM
 	url = https://github.com/bhklab/cream
 	shallow = true
 	registered = true
-[submodule "Xeva"]
-	path = Xeva
-	url = https://github.com/bhklab/xeva
-	shallow = true
-	registered = true
-[submodule "consensusOV"]
-	path = consensusOV
-	url = https://github.com/bhklab/consensusov
+[submodule "PDATK"]
+	path = PDATK
+	url = https://github.com/bhklab/pdatk
 	shallow = true
 	registered = true
 [submodule "PharmacoGx"]
@@ -23,8 +23,8 @@
 	url = https://github.com/bhklab/pharmacogx
 	shallow = true
 	registered = true
-[submodule "PDATK"]
-	path = PDATK
-	url = https://github.com/bhklab/pdatk
+[submodule "Xeva"]
+	path = Xeva
+	url = https://github.com/bhklab/xeva
 	shallow = true
 	registered = true
