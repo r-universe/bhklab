@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "consensusOV"
+    "package": "Xeva"
   },
   {
-    "package": "PDATK"
+    "package": "consensusOV"
   },
   {
     "package": "PharmacoGx"
   },
   {
-    "package": "Xeva"
+    "package": "PDATK"
   }
 ]
