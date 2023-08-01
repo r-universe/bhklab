@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "consensusOV"]
-	path = consensusOV
-	url = https://github.com/bhklab/consensusov
 [submodule "CREAM"]
 	path = CREAM
 	url = https://github.com/bhklab/cream
-[submodule "mRMRe"]
-	path = mRMRe
-	url = https://github.com/bhklab/mrmre
 [submodule "PDATK"]
 	path = PDATK
 	url = https://github.com/bhklab/pdatk
@@ -20,3 +14,9 @@
 [submodule "Xeva"]
 	path = Xeva
 	url = https://github.com/bhklab/xeva
+[submodule "consensusOV"]
+	path = consensusOV
+	url = https://github.com/bhklab/consensusov
+[submodule "mRMRe"]
+	path = mRMRe
+	url = https://github.com/bhklab/mrmre
